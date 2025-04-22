@@ -1,0 +1,14 @@
+theme = "lynx"
+title = "Mi Linktree Avanzado"
+
+[params.author]
+  name = "Tu Nombre"
+  headline = "Bio o subtítulo"
+  image = "https://www.gravatar.com/avatar/..."
+
+links = [
+  { link = { href = "https://github.com/tuusuario", text = "GitHub", icon = "github", style = "bg-green-500 hover:bg-green-600 text-white" } },
+  { link = { href = "https://instagram.com/tuusuario", text = "Instagram", icon = "instagram", style = "bg-pink-500 hover:bg-pink-600 text-white" } },
+  { link = { href = "https://miweb.com", text = "Mi Web", icon = "globe", style = "bg-blue-500 hover:bg-blue-600 text-white" } }
+]
+
