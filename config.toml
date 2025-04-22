@@ -1,14 +1,15 @@
 theme = "lynx"
-title = "Mi Linktree Avanzado"
+title = "La Cocina de Nube Rosa y Lila"
 
 [params.author]
-  name = "Tu Nombre"
-  headline = "Bio o subtítulo"
-  image = "https://www.gravatar.com/avatar/..."
+  name = "La Cocina de Nube Rosa y Lila"
+  headline = "👇🏻Todas mis redes sociales aqui👇🏻"
+  image = "https://yt3.googleusercontent.com/sQvWLP7KQZt1_9LUYP6_NQo6SdWmcNsXMiS-C4MpfHvMNoBcrmiloV_Pxe6NI0OkCKq_lazS=s900-c-k-c0x00ffffff-no-rj"
 
 links = [
-  { link = { href = "https://github.com/tuusuario", text = "GitHub", icon = "github", style = "bg-green-500 hover:bg-green-600 text-white" } },
-  { link = { href = "https://instagram.com/tuusuario", text = "Instagram", icon = "instagram", style = "bg-pink-500 hover:bg-pink-600 text-white" } },
-  { link = { href = "https://miweb.com", text = "Mi Web", icon = "globe", style = "bg-blue-500 hover:bg-blue-600 text-white" } }
+  { link = { href = "https://github.com/tuusuario", text = "Youtube", icon = "youtube"} },
+  { link = { href = "https://instagram.com/tuusuario", text = "Instagram"} },
+  { link = { href = "https://miweb.com", text = "Tiktok", icon = "tiktok"} },
+  { link = { href = "https://miweb.com", text = "Facebook", icon = "facebook"} }
 ]
 
